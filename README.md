@@ -1,5 +1,25 @@
-## Clone the "we aint plastic" website. 
+# We Ain't Plastic Clone
 
-https://weaintplastic.com/
+A clone of the "[We Ain't Plastic](https://weaintplastic.com/)" website.
 
-clone website here: https://weaintplastic-clone-p0rb97hi3-aishtiaq7s-projects.vercel.app
+## Live Demo
+
+[View Here](https://weaintplastic-clone.vercel.app/)
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/we-aint-plastic-clone.git
+cd we-aint-plastic-clone
+npm install
+npm run dev
+```
+
+## Features
+
+- Responsive design
+- Built with React and SCSS
+
+## License
+
+MIT
