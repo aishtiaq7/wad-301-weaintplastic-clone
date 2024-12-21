@@ -1,4 +1,5 @@
 import "./App.scss";
+import GemsSection from "./sections/GemsSection/GemsSection";
 import HeroSection from "./sections/HeroSection/HeroSection";
 
 function App() {
@@ -15,9 +16,7 @@ function App() {
   );
 }
 
-function GemsSection() {
-  return <div>GemsSection</div>;
-}
+
 
 function WorkSection() {
   return <div>WorkSection</div>;
