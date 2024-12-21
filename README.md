@@ -18,7 +18,7 @@ npm run dev
 ## Features
 
 - Responsive design
-- Built with React and SCSS
+- Built with React and SCSS 
 
 ## License
 
