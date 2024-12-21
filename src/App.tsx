@@ -15,7 +15,7 @@ function App() {
 }
 
 function HeroSection() {
-  return <div>HeroSection</div>
+  return <div>HeroSection</div> 
 }
 
 function GemsSection() {
