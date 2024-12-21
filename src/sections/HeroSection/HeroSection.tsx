@@ -1,4 +1,4 @@
-import "./HeroSection.css"
+import "./HeroSection.scss"
 import gem from "../../assets/images/gem-textured.png"
 
 const HeroSection = () => {
